@@ -1,5 +1,5 @@
 # Ex.No: 2  Implementation of Depth First Search
-### DATE:  17/10/2023                                                                         
+### DATE:  18/10/2023                                                                         
 ### REGISTER NUMBER :  212221040166
 ### AIM: 
 To write a python program to implement Depth first Search. 
@@ -35,7 +35,7 @@ dfs(visited, graph, '5')
 ```
 ### Output:
 
-![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/83e9e310-1da9-4afa-86aa-b42245cd1e67)
+![image](https://github.com/Sudhindev/AI_Lab_2023-24/assets/130021386/9c3520b2-9bc0-4a79-8b10-2a9587bb882f)
 
 
 ### Result:
