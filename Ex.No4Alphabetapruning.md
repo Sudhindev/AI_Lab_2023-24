@@ -56,7 +56,8 @@ values = [3, 5, 6, 9, 1, 2, 0, -1]
 print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 ```
 ### Output:
-![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/2da80c3e-5a44-48d5-8585-540180d3c92f)
+![image](https://github.com/Sudhindev/AI_Lab_2023-24/assets/130021386/dea525cf-5596-4e1a-86ae-a68ea0491bd4)
+
 
 
 
