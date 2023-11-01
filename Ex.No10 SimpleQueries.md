@@ -56,7 +56,8 @@ course(bk301,dept(havefun)).
 ```
 ### Output:
 
-![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/f8f5b544-e675-458d-9e1e-3c285303af48)
+![image](https://github.com/Sudhindev/AI_Lab_2023-24/assets/130021386/fb0eaca8-a2c2-436c-8eae-4e4beca5f06e)
+
 
 ### Task 3:
 Consider the statement <br> 
