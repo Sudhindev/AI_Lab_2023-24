@@ -11,6 +11,8 @@ To write a python program to implement Depth first Search.
 5. For each neighbor node, recursively invoke the dfs search.
 6. Call the dfs function by passing arguments visited, graph and starting node.
 7. Stop the program.
+
+
 ### Program:
 ```
 # Using a Python dictionary to act as an adjacency list
@@ -33,9 +35,16 @@ def dfs(visited, graph, node): #function for dfs
 print("Following is the Depth-First Search")
 dfs(visited, graph, '5')
 ```
+
+
+
+
 ### Output:
 
 ![image](https://github.com/Sudhindev/AI_Lab_2023-24/assets/130021386/9c3520b2-9bc0-4a79-8b10-2a9587bb882f)
+
+
+
 
 
 ### Result:
